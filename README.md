@@ -19,7 +19,7 @@ The goal of this project was to help me learn more about the Solana blockchain a
 - **Mint Tokens**: Mint new SPL tokens.
 - **Burn Tokens**: Burn existing SPL tokens.
 - **Deploy Programs**: Deploy new programs to the Solana blockchain.
-- **Airdrop Tokens**: Airdrop SPL tokens to multiple accounts.
+- **Request Token Balance**: Check your balance of a specified token.
 
 ## Installation
 
