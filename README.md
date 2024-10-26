@@ -30,7 +30,7 @@ To install SPL Manager, you need to have Rust and Cargo installed. You can insta
 git clone https://github.com/yourusername/spl_manager.git
 
 # Navigate to the project directory
-cd spl_manager
+cd spl-manager
 
 # Build the project
 cargo install --path .
