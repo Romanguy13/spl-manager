@@ -1,0 +1,19 @@
+[package]
+name = "spl"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.7", features = ["derive"] }
+colored = "2.1.0"
+dotenv = "0.15.0"
+solana-client = "2.0.1"
+solana-program = "2.0.1"
+solana-sdk = "2.0.1"
+spinners = "4.1.1"
+spl-associated-token-account = "4.0.0"
+spl-token = "6.0.0"
+spl-token-metadata-interface = "0.4.0"
+tabled = { version = "*", features = ["ansi"] }
+terminal-link = "0.1.0"
+tokio = "1.38.0"
